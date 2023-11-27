@@ -1,0 +1,2 @@
+arn:aws:elasticloadbalancing:us-east-1:418393489924:targetgroup/target-group-cluster1/2638610b09af324b
+arn:aws:elasticloadbalancing:us-east-1:418393489924:targetgroup/target-group-cluster2/a21dab06db7906c0
